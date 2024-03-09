@@ -1,3 +1,5 @@
-    <form action="login.php" method="post">
+<form action="login.php" method="post">
     username: <input type="text" name="txtusername"><br>
-    Mật khẩu: <input type="password" name="txtmatkhau"><br>
+    password: <input type="password" name="txtpassword"><br>
+    <input type="submit" value="Đăng nhập">
+</form>
